@@ -1,0 +1,8 @@
+precheck_results
+*.hex*
+*.lst
+*.vcd
+*.gtkw
+*.vvp
+*.vcd.hier
+
